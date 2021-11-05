@@ -1,52 +1,11 @@
+[
 {
-    "key": "6182ad045ed335c3e0f31555",
+    "key": "ducket-data",
     "value": {
-        "ducketId": "6182ad045ed335c3e0f31555",
-        "rows": [
-            {
-                "columns": {
-                    "AttnName": "Mihaela Jennings",
-                    "MaterialType": "Benefit Guide",
-                    "ShippingAddress": "123 Street, Houston TX 777009",
-                    "ShippingPhone": "713-816-9309",
-                    "jassignee": {},
-                    "jseq": 1
-                },
-                "order": 0,
-                "rowId": "row_aeeecc11-1aa3-497b-a2b6-23862e6e6bb8"
-            },
-            {
-                "columns": {
-                    "AttnName": "Mihaela Jennings",
-                    "MaterialType": "Benefit Guide",
-                    "ShippingAddress": "123 Street",
-                    "ShippingPhone": "713-816-9309",
-                    "jseq": 2
-                },
-                "order": 1,
-                "rowId": "row_210c1f7e-93ed-428a-838b-a0c9e4accfac"
-            },
-            {
-                "columns": {
-                    "jseq": 3
-                },
-                "order": 2,
-                "rowId": "row_1033e773-0e95-476e-9b89-0651a0aae89b"
-            },
-            {
-                "columns": {
-                    "jseq": 4
-                },
-                "order": 3,
-                "rowId": "row_cd3c288e-f7e3-4638-991f-4528d0f7136b"
-            },
-            {
-                "columns": {
-                    "jseq": 5
-                },
-                "order": 4,
-                "rowId": "row_73cdc85b-a2f4-4519-b3ba-4f142054ff29"
-            }
+        "stringColumn5": [
+            "Benefit Guide",
+            "Benefit Guide"
         ]
     }
 }
+    ]
